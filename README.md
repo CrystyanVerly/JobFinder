@@ -1,0 +1,1 @@
+Projeto com as tecnologias Node, Express e Sequelize.
