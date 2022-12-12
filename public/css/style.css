@@ -140,21 +140,21 @@
   background-color: #f03e3e;
   border: 1px solid transparent;
   border-radius: 0;
-  color: #FFF;
+  color: #fff;
 }
 
 .new-job-label {
-    background-color: #FFD500;
-    color: #4D5154;
-    text-transform: uppercase;
-    font-weight: bold;
-    padding: 5px 10px;
-    position: absolute;
-    right: 250px;
-    top: 40px;
-    display: none;
+  background-color: #ffd500;
+  color: #4d5154;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 5px 10px;
+  position: absolute;
+  right: 250px;
+  top: 40px;
+  display: none;
 }
 
 .new-job .new-job-label {
-    display: block;
+  display: block;
 }
